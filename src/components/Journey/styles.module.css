@@ -1,0 +1,25 @@
+.journey {
+  margin: 4rem 0;
+}
+
+.timeline {
+  max-height: 400px;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.timelineItem {
+  display: flex;
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--ifm-color-primary);
+}
+
+.date {
+  min-width: 100px;
+  font-weight: bold;
+}
+
+.event {
+  margin-left: 2rem;
+} 

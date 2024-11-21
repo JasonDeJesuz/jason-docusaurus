@@ -1,0 +1,25 @@
+.carouselSection {
+  margin: 3rem 0;
+}
+
+.carousel {
+  max-width: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.carouselItem {
+  text-align: center;
+}
+
+.carouselItem img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.caption {
+  margin-top: 1rem;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.9rem;
+} 
