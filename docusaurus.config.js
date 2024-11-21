@@ -145,7 +145,19 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
+      customCss: [
+        './src/css/custom.css',
+      ],
     }),
+  plugins: [
+    // ... other plugins ...
+    'docusaurus-plugin-yaml',
+  ],
 };
 
 export default config;

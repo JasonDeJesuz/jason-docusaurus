@@ -1,0 +1,26 @@
+.stats {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    /* text-align: center; */
+}
+
+.stats h2 {
+    margin-bottom: 1rem;
+}
+
+.stats p {
+    margin-bottom: 2rem;
+}
+
+.imageWrapper {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.imageWrapper img {
+    border-radius: 6px;
+    max-width: 100%;
+    height: auto;
+} 

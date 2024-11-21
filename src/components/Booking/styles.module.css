@@ -1,0 +1,31 @@
+.booking {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    /* text-align: center; */
+}
+
+.booking h2 {
+    margin-bottom: 1rem;
+}
+
+.booking p {
+    margin-bottom: 2rem;
+}
+
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: var(--ifm-color-primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.button:hover {
+    background-color: var(--ifm-color-primary-darker);
+    color: white;
+    text-decoration: none;
+} 

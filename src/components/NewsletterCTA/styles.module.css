@@ -1,7 +1,7 @@
 .newsletter {
   margin: 4rem auto;
-  max-width: 600px;
-  text-align: center;
+  max-width: 800px;
+  /* text-align: center; */
   padding: 2rem;
   background: var(--ifm-background-surface-color);
   border-radius: 8px;
@@ -24,21 +24,21 @@
 
 .container {
     width: 100%;
-    text-align: center;
-    max-width: 600px;
+    /* text-align: center; */
+    max-width: 800px;
     margin: 0 auto;
     padding: 2rem 1rem;
 }
 
 .heading {
-    text-align: center;
+    /* text-align: center; */
     font-size: 1.875rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
 }
 
 .subheading {
-    text-align: center;
+    /* text-align: center; */
     font-size: 1.125rem;
     color: #666;
     margin-bottom: 1.5rem;
@@ -46,6 +46,6 @@
 
 .iframeContainer {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     width: 100%;
 } 
