@@ -112,8 +112,8 @@ const config = {
                 to: '/docs/projects',
               },
               {
-                label: 'Resume',
-                to: '/docs/resume',
+                label: 'CV',
+                to: '/docs/resume/experience',
               },
             ],
           },
