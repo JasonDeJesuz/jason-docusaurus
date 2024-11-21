@@ -1,0 +1,46 @@
+/* Company section container */
+.experience-section {
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  background: var(--ifm-background-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+}
+
+.experience-section:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Job title and company name */
+.experience-section h2 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.experience-section h3 {
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 0.5rem;
+}
+
+/* Location and employment type */
+.job-location {
+  color: var(--ifm-color-secondary-darkest);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/* Bullet points */
+.experience-section ul {
+  margin-bottom: 0;
+}
+
+.experience-section li {
+  margin-bottom: 0.5rem;
+}
+
+.experience-container {
+  margin-bottom: 2rem;
+} 
