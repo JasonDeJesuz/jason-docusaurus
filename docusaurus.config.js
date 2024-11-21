@@ -154,10 +154,6 @@ const config = {
         './src/css/custom.css',
       ],
     }),
-  plugins: [
-    // ... other plugins ...
-    'docusaurus-plugin-yaml',
-  ],
 };
 
 export default config;
