@@ -1,9 +1,9 @@
 {
-    "label": "CV",
-    "position": 4,
+    "label": "Resume",
+    "position": 3,
     "link": {
       "type": "generated-index",
-      "description": "5 minutes to learn the most important Docusaurus concepts."
+      "description": "My professional experience and education."
     }
   }
   
