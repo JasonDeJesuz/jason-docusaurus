@@ -48,4 +48,20 @@
     display: flex;
     /* justify-content: center; */
     width: 100%;
+}
+
+.socialLinks {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    /* justify-content: center; */
+}
+
+.socialLinks a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.socialLinks a:hover {
+    text-decoration: underline;
 } 
