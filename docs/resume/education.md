@@ -7,21 +7,26 @@ import Education from '@site/src/components/Education';
 # Education
 
 <Education>
-  ## University Name
-  ### Bachelor of Science in Computer Science
-  <div className="education-date">2018 - 2022</div>
+  ## Belgium Campus
+  ### Bachelors of Computer Engineering
+  <div className="education-date">2016 - 2017</div>
 
-  - GPA: 3.8/4.0
-  - Relevant Coursework: Data Structures, Algorithms, Software Engineering
-  - Senior Thesis: "Implementation of Machine Learning in Web Applications"
+  - Partial program
+  - Country: South Africa
 </Education>
 
 <Education>
-  ## Another University
-  ### Master of Science in Software Engineering
-  <div className="education-date">2022 - 2024</div>
+  ## Hoerskool Jeugland
+  ### Matric
+  <div className="education-date">2016</div>
 
-  - Research Focus: Distributed Systems
-  - Teaching Assistant for Advanced Programming course
-  - Published paper on microservices architecture
-</Education> 
+  - Country: South Africa
+</Education>
+
+<Education>
+  ## Certifications
+  <div className="education-date"></div>
+
+  - Coursera: Programming Foundations with HTML, Javascript, CSS with Honours
+  - Microsoft: Software Development Fundamentals
+</Education>

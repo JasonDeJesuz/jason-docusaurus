@@ -18,8 +18,6 @@ export default function Home() {
         <section className={styles.hero}>
           <HeroContent />
         </section>
-        <ImageCarousel />
-        <NewsletterCTA />
         <Journey />
         <GitHubStats />
         <Travel />

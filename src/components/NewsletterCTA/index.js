@@ -21,9 +21,6 @@ export function NewsletterCTA() {
                 ></iframe>
             </div>
             <div className={styles.socialLinks}>
-                <a href="https://bsky.app/profile/jasondejesuz.bsky.social" target="_blank" rel="noopener noreferrer">
-                    Follow me on Bluesky
-                </a>
                 <a href="www.linkedin.com/in/jason-de-jesuz-83a7b6158" target="_blank" rel="noopener noreferrer">
                     Connect on LinkedIn
                 </a>
