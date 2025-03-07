@@ -1,8 +1,5 @@
-import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
-import { ImageCarousel } from '@site/src/components/ImageCarousel';
-import { NewsletterCTA } from '@site/src/components/NewsletterCTA';
 import { Journey } from '@site/src/components/Journey';
 import HeroContent from '@site/content/hero.mdx';
 import { GitHubStats } from '@site/src/components/GitHubStats';
