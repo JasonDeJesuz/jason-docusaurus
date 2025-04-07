@@ -9,9 +9,14 @@ import Experience from '@site/src/components/Experience';
 <Experience>
   ## Epictetus Research Pte Ltd (August 2024 - Present)
   ### Founder and Architect
+
+  Created my own company in Singapore, allowing me to create global projects and attempt to build a life in Singapore.
+
   <div className="job-location">Singapore • Full-time</div>
 
-  - Developed and launched a web application for gathering user feedback on applications, achieving a 40% reduction in monthly spend
+  - Developed and launched a web application for gathering user feedback on applications, reducing monthly spend by from $200 -> $0.
+  - Developed and launched a mac os application which shows me zen quotes in my status bar, reduced rate of getting upset from 10 times a day, to 2.
+  - Developed and launched a web application to get rid of my vaping habit, by giving my sister a tool to ruin me financially by charging my credit card when she sees me vaping, I don't vape anymore.
 </Experience>
 
 <Experience>

@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://dejesuz.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'JasonDeJesuz', // Usually your GitHub org/user name.
+  projectName: 'jason-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,8 +55,6 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -97,6 +95,16 @@ const config = {
           {
             href: 'https://github.com/jasondejesuz',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://www.linkedin.com/in/jason-de-jesuz-83a7b6158/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
+          {
+            href: 'https://wa.me/27737251753',
+            label: 'WhatsApp',
             position: 'right',
           },
         ],
@@ -145,6 +153,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/jasondejesuz',
               },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/jason-de-jesuz-83a7b6158/'
+              }
             ],
           },
         ],
